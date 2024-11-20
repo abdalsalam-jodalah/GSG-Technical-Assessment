@@ -1,0 +1,23 @@
+.container {
+    text-align: center;
+    margin: 20px;
+}
+
+.heading {
+    font-size: 24px;
+    font-weight: bold;
+}
+
+.product-list {
+    list-style: none;
+    padding: 10px;
+    margin: auto;
+    width: fit-content;
+    background-color: lightgray;
+    border: 1px solid black;
+}
+
+.item {
+    font-weight: bold;
+    color: green;
+}
