@@ -1,0 +1,15 @@
+h1 {
+    text-align: center;
+}
+ul {
+    list-style-type: none;
+    margin: 20px auto;
+    padding: 10px;
+    width: fit-content;
+    border: 1px solid black;
+    background-color: lightgray;
+}
+ul li {
+    font-weight: bold;
+    color: green;
+}
