@@ -1,10 +1,10 @@
-import ProductList from "./components/ProductList";
+import ProductListTask1 from "./components/ProductList-Task1.jsx";
 
 import './App.css'
 const App = () => {
     return (
         <div className="App">
-            <ProductList />
+            <ProductListTask1 />
         </div>
     );
 };

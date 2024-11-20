@@ -1,6 +1,6 @@
 import "./ProductList.css";
 
-const ProductList = () => {
+const ProductListTask1 = () => {
     const products = ["Apple", "Banana", "Orange","Strawberry "];
     return (
         <div className="container">
@@ -16,4 +16,4 @@ const ProductList = () => {
     );
 };
 
-export default ProductList;
+export default ProductListTask1;
